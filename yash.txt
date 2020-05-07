@@ -1,1 +1,2 @@
 my second input
+update master input
